@@ -2,7 +2,15 @@
 
 ## Purpose of the project
 
-To build a flask app to scrape the latest news about mars and get the images related to mars
+To build a flask app to scrape the latest news about mars mission and get the images related to mars from  the website,
+
+## Resources:
+- Beautiful Soup
+- Splinter
+- MongoDB
+- Flask
+
+
 
 ### Result
 
